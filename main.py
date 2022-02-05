@@ -4,6 +4,7 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 print("Hello world")
 def main(msg):
+    #Adding the 2nd comment to this file
     print(msg)
 
 main("Hello People")
