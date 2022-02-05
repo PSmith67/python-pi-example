@@ -7,6 +7,10 @@ def main(msg):
     #Adding the 2nd comment to this file
     #Print a message
     #Test
+    #No longer need comments
     print(msg)
+
+def secondary():
+    print("New function")
 
 main("Hello People")
