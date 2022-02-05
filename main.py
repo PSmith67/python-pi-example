@@ -6,6 +6,7 @@ print("Hello world")
 def main(msg):
     #Adding the 2nd comment to this file
     #Print a message
+    #Test
     print(msg)
 
 main("Hello People")
